@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)
+ 
 <!--
 **ahamad236/ahamad236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

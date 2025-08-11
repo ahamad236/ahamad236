@@ -3,7 +3,7 @@
  Ahamad here
  
   📫 How to reach me: ahmadshaik4u@gmail.com
-  😄 Pronouns: ahamad
+
   
 <!--
 **ahamad236/ahamad236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

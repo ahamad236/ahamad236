@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Ahamad)
+ Ahamad here
  
   📫 How to reach me: ahmadshaik4u@gmail.com
   😄 Pronouns: ahamad
